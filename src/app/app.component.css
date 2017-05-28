@@ -1,0 +1,13 @@
+p.odd {
+  color: blue;
+  border: dashed black medium;
+  padding: 15px;
+  background: springgreen;
+}
+
+p.even {
+  color: red;
+  border: double black medium;
+  padding: 15px;
+  background-color: dodgerblue;
+}
