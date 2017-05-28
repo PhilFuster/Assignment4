@@ -29,7 +29,7 @@ export class GameControlComponent implements OnInit {
   }
 
   stopGame() {
-    clearInterval(this.ref);
+    clearInterval(this.intervalRef);
   }
 
   incrementCount() {
